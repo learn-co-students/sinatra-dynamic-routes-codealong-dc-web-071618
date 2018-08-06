@@ -65,6 +65,7 @@ PLATFORMS
 DEPENDENCIES
   capybara
   pry
+  rack
   rack-test
   rake
   require_all
@@ -74,4 +75,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   1.16.0
+   1.16.2
